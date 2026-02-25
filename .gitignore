@@ -1,1 +1,6 @@
 .DS_Store
+
+# Only track PDF files — ignore everything else
+*.md
+*.typ
+*.png
